@@ -8,8 +8,8 @@ Website link:
 ![Screenshot 2025-01-25 140439](https://github.com/user-attachments/assets/cf5af295-ba9c-45dc-b2fa-07f57e480435)
 
 ![Screenshot 2025-01-24 160225](https://github.com/user-attachments/assets/9229c514-883e-4d1d-8dde-553b121dc65a)
-- https://editor.p5js.org/aherstowski/sketches/jMBJGlRbk = example of the work, only but the paragraph.
-- Again, I wanted to experience coding,
+- https://editor.p5js.org/aherstowski/sketches/jMBJGlRbk = this is the example of the work, only but the paragraph, not normally focusing the sizing. 
+- Again, I wanted to experience coding, 
 
 
 ## Notes(working progress)
