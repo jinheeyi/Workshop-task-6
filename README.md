@@ -10,7 +10,8 @@ Website link:
 
 
 ## Notes(working progress)
-![Uploading Screenshot 2025-01-22 134345.png…]()
+![Screenshot 2025-01-22 135017](https://github.com/user-attachments/assets/2c18e070-c3fe-41c5-ad07-c1da1fc17e14)
+
 
 
 
