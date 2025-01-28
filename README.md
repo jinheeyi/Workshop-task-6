@@ -9,7 +9,8 @@ Website link:https://jinheeyi.github.io/workshop_6/
 
 - _using this website on downloading the fonts._
 ![Screenshot 2025-01-24 160225](https://github.com/user-attachments/assets/9229c514-883e-4d1d-8dde-553b121dc65a)
-- https://editor.p5js.org/aherstowski/sketches/jMBJGlRbk / this is the example of the work, only but the paragraph, not normally focusing the slider. 
+- https://editor.p5js.org/aherstowski/sketches/jMBJGlRbk
+- this is the example of the work, only but the paragraph, not normally focusing the slider. 
 
 ## Notes(working progress)
 
