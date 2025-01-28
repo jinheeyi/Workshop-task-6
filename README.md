@@ -26,7 +26,7 @@ function draw(){
 ```
 
 _**input field + buttons**_
-````ruby
+```ruby
 function setup(){
   createCanvas(400,500);
   textFont(font1)
@@ -37,7 +37,8 @@ function setup(){
   button.mousePressed(newLine);
 }
 ```
+
 ![Screenshot 2025-01-22 135017](https://github.com/user-attachments/assets/2c18e070-c3fe-41c5-ad07-c1da1fc17e14)
 ![Screenshot 2025-01-25 141604](https://github.com/user-attachments/assets/9bb3eb32-a4ea-4fd6-a08a-3d2520cfa1a7)
 
-## Conclusion(+ further improvement)
+## Conclusion (+further improvement)
