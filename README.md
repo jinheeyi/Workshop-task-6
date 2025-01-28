@@ -15,7 +15,6 @@ Website link: https://jinheeyi.github.io/Workshop-task-6/
 
 ## Notes(working progress)
 
-
 _**writing the sentence and showing on the screen**_
 ```ruby
 function draw(){
@@ -43,3 +42,5 @@ function setup(){
 ![Screenshot 2025-01-25 141604](https://github.com/user-attachments/assets/9bb3eb32-a4ea-4fd6-a08a-3d2520cfa1a7)
 
 ## Conclusion (+further improvement)
+- There was not much of the significance work that happened, but I somehow experienced on making the slider for this course.
+- Even though it was very simple, I was proud to make it happen in the sketch. For further improvements, I will try make something new, aesthetic and abstract for the next assignment. 
